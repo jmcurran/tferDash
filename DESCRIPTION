@@ -1,0 +1,10 @@
+Package: tferDash
+Type: Package
+Title: Shiny Dashboard Interface to Package tfer
+Version: 1.0
+Date: 2015-03-13
+Author: James Curran
+Maintainer: James Curran <j.curran@auckland.ac.nz>
+Description: This package provides a simple Shiny Dashboard interface to the package tfer, which is used for assessing transfer probabilities in forensic glass casework.
+License: GPL-2 | file LICENSE
+Depends: tfer, shiny, shinydashboard
